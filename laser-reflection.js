@@ -1,3 +1,4 @@
 // reflect the laser pointer pls
 
-console.log("Happy Fridayayayaya");
+
+console.log("leave my laser alone fool.");
